@@ -1,1 +1,1 @@
-# algoritmos-e-programacao-1
+Lista 1 de exercícios na matéria Algoritmos e Programação
